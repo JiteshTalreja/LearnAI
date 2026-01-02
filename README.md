@@ -145,7 +145,7 @@ If you find this project helpful, please consider:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jitesh-talreja-015823105)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitesh.talreja101@gmail.com) 
 
-**Built with ❤️ by Eden Marco**
+**Built with ❤️ by Jitesh Talreja**
 
 </div>
 
