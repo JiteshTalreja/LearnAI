@@ -12,6 +12,10 @@ dependencies = [
     "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.6",
     "langchain-tavily>=0.2.15",
+    "pandas>=2.3.3",
     "python-dotenv>=1.2.1",
+    "sentence-transformers>=5.2.0",
     "tavily-python>=0.7.17",
-    ]
+    "pypdf>=4.0.0",
+    "nltk>=3.9.2",
+]
