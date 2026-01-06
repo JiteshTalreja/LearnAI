@@ -18,4 +18,8 @@ dependencies = [
     "tavily-python>=0.7.17",
     "pypdf>=4.0.0",
     "nltk>=3.9.2",
+    "langchain-pinecone>=0.2.13",
+    "langchain-community>=0.4.1",
+    "langchainhub>=0.1.21",
+    "chardet>=5.2.0",
 ]
